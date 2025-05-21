@@ -1,0 +1,9 @@
+.git
+.gitignore
+target/
+README.md
+node_modules/
+src/test/
+.idea
+.vscode
+.env
